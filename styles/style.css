@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&family=Sarala:wght@400;700&display=swap');
+::-webkit-scrollbar{
+    width: 8px;
+    height: 7px;
+  }
+  ::-webkit-scrollbar-track {
+    background-color: transparent;
+  }
+  ::-webkit-scrollbar-track-piece{
+    background-color: #252525;
+  }
+  ::-webkit-scrollbar-thumb{
+      border-radius: 100px;
+    background-color: rgb(167, 167, 167);
+  }
+  ::-webkit-scrollbar-thumb:hover{
+      background-color: #525252;
+  }
+  html {
+    scroll-behavior: smooth;
+    padding: 0;
+    margin: 0;
+  }
+  body{
+    height: 3000px;
+    padding: 0;
+    margin: 0;
+  }
+  *{
+    font-family: 'Sarala';
+  }
+  header{
+    width: 100%;
+    background: linear-gradient(65.99deg, #23232F 11.05%, #52758E 88.83%);
+  }
+  .row{
+    width: 100%;
+    padding-right: var(--bs-gutter-x, 0.75rem);
+    padding-left: var(--bs-gutter-x, 0.75rem);
+    margin-right: auto;
+    margin-left: auto;
+  }
+  h1{
+    font-family: 'Sarala';
+    font-style: normal;
+    font-weight: 700;
+    color: #C3E0EC;
+  }
+
+  @media (min-width: 768px) {
+    .title{
+      font-size: 80px;
+    }
+    .sub-title{
+      font-size: 16px;
+    }
+    .mobile{
+      display: block;
+      max-width: 80%;
+      height: auto;
+    }
+    p{
+      width: 650px;
+      text-align: justify;
+      font-family: 'Sarala';
+      font-weight: 400;
+      color: #E6F2F8; 
+    }
+  }
+
+  @media (max-width: 767.99px) {
+    .title{
+      font-size: 60px;
+    }
+    .sub-title{
+      font-size: 13px;
+    }
+    .mobile{
+      display: block;
+      max-width: 100%;
+      height: auto;
+    }
+    p{
+      width: 95%;
+      text-align: justify;
+      font-family: 'Sarala';
+      font-weight: 400;
+      color: #E6F2F8; 
+    }
+  }
+
+  .line{
+    width: 100%;
+    background-color: #252525;  
+    height: 0.5vh;
+  }
+  .nav-link{
+    font-weight: 700;
+    font-family: 'Sarala';
+    font-size: 15px;
+    line-height: 30px;
+    color: #252525;
+  }
+.navbar{
+    height: 8vh;
+    justify-content:center;
+    background-color: #b2ccd7ec
+}
