@@ -57,10 +57,8 @@
       width: 100vw;
     }
     .title{
-      font-size: 60px; text-align: center;
-    }
-    .sub-title{
-      font-size: 16px;
+      font-size: 60px;
+       text-align: center;
     }
     .mobile{
       display: block;
@@ -71,6 +69,7 @@
       font-family: 'Sarala';
       text-align: justify;
       font-weight: 400;
+      font-size: 15;
       color: #E6F2F8; 
     }
 
@@ -82,7 +81,7 @@
   .nav-link{
     font-weight: 700;
     font-family: 'Sarala';
-    font-size: 15px;
+    font-size: 1.1vw;
     line-height: 30px;
     color: #252525;
   }
@@ -140,17 +139,18 @@
 #footer{
   bottom: 0;
   width: 100%;
-  height: 10rem;
+  height: 22rem;
   background: rgb(162,190,201);
-  background: linear-gradient(0deg, rgba(162,190,201,1) 0%, rgba(207,230,240,1) 100%);
+  background: linear-gradient(0deg, rgb(95, 127, 140) 0%, rgb(168, 188, 197) 100%);
 }
 .icons{
   text-align: center;
   vertical-align: middle;
-  height: 10rem;
+  height: 7rem;
 }
 .icon{
-  width: 30px;
+  padding: 10px;
+  width: 60px;
 }
 .videoramon{
   width: 95%;
@@ -158,4 +158,61 @@
 }
 .div-video{
   height: 500px;
+} 
+.centerheadertext{
+  margin-left: auto;
+  margin-right: 0px;
+  width: 90%;
+}
+
+.titulo {
+  @include font-size(4rem);
+}
+.titulo {
+  font-size: calc(1.525rem + 3.3vw);
+}
+
+@media (min-width: 1200px) {
+  .title {
+    font-size: 4rem;
+  }
+}
+
+
+.sub-title {
+  @include font-size(1rem);
+}
+.sub-title {
+  font-size: calc(0.38125rem + 0.825vw);
+}
+
+@media (min-width: 1200px) {
+  .title {
+    font-size: 4rem;
+  }
+}
+
+.graph{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer-title{
+  font-family: 'Sarala';
+  font-size: 40px;
+    line-height: 65px;
+    color: #252525;
+    text-align: center;
+}
+.footer-text{
+  font-size: 25px;
+    color: #252525;
+    text-align: center;
+}
+.footer-textsm{
+  font-size: 20px;
+  font-weight: 700;
+    color: #252525;
+    text-align: center;
 }
