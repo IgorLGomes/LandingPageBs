@@ -52,26 +52,26 @@
     font-weight: 700;
     color: #C3E0EC;
   }
-    header{
-      height: 100vh;
-      width: 100vw;
+  header{
+    height: 100vh;
+    width: 100vw;
     }
-    .title{
-      font-size: 60px;
-       text-align: center;
-    }
-    .mobile{
-      display: block;
-      max-width: 80%;
-      height: auto;
-    }
-    p{
-      font-family: 'Sarala';
-      text-align: justify;
-      font-weight: 400;
-      font-size: 15;
-      color: #E6F2F8; 
-    }
+  .title{
+    font-size: 60px;
+     text-align: center;
+  }
+  .mobile{
+    display: block;
+    max-width: 80%;
+    height: auto;
+  }
+  p{
+    font-family: 'Sarala';
+    text-align: justify;
+    font-weight: 400;
+    font-size: 15;
+    color: #E6F2F8; 
+  }
 
   .line{
     width: 100%;
@@ -85,134 +85,133 @@
     line-height: 30px;
     color: #252525;
   }
-.navbar{
+  .navbar{
     height: 8vh;
     justify-content:center;
     background-color: #b2ccd7ec
-}
-.sub{
-  font-family: 'Sarala';
-  font-style: normal;
-  font-weight: 700;
-  font-size: 30px;
-  line-height: 65px;
-  color: #CFE6F0;
-}
-.subc{
-
+  } 
+  .sub{
+    font-family: 'Sarala';
+    font-style: normal;
     font-weight: 700;
     font-size: 30px;
     line-height: 65px;
     color: #CFE6F0;
-  text-align: center;
-}
-#video{
-  background-color:  #2A2A2A;
-}
-#career{
-  background-color: #252525;
-}
-#market{
-  background-color: #2A2A2A;
-}
-.imgs{
-  width: 70%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-.imgxs{
-  width: 40%;
-}
-.imgb{
-  width: 50%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-.imgxb{
-  width: 40%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-#footer{
-  bottom: 0;
-  width: 100%;
-  height: 22rem;
-  background: rgb(162,190,201);
-  background: linear-gradient(0deg, rgb(95, 127, 140) 0%, rgb(168, 188, 197) 100%);
-}
-.icons{
-  text-align: center;
-  vertical-align: middle;
-  height: 7rem;
-}
-.icon{
-  padding: 10px;
-  width: 60px;
-}
-.videoramon{
-  width: 95%;
-  height: 90%;
-}
-.div-video{
-  height: 500px;
-} 
-.centerheadertext{
-  margin-left: auto;
-  margin-right: 0px;
-  width: 90%;
-}
-
-.titulo {
-  @include font-size(4rem);
-}
-.titulo {
-  font-size: calc(1.525rem + 3.3vw);
-}
-
-@media (min-width: 1200px) {
-  .title {
-    font-size: 4rem;
   }
-}
-
-
-.sub-title {
-  @include font-size(1rem);
-}
-.sub-title {
-  font-size: calc(0.38125rem + 0.825vw);
-}
-
-@media (min-width: 1200px) {
-  .title {
-    font-size: 4rem;
+  .subc{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 65px;
+    color: #CFE6F0;
+    text-align: center;
   }
-}
+  #video{
+    background-color:  #2A2A2A;
+  }
+  #career{
+    background-color: #252525;
+  }
+  #market{
+    background-color: #2A2A2A;
+  }
+  .imgs{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .imgxs{
+    width: 40%;
+  }
+  .imgb{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .imgxb{
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #footer{
+    bottom: 0;
+    width: 100%;
+    height: 22rem;
+    background: rgb(162,190,201);
+    background: linear-gradient(0deg, rgb(95, 127, 140) 0%, rgb(168, 188, 197) 100%);
+  }
+  .icons{
+    text-align: center;
+    vertical-align: middle;
+    height: 7rem;
+  }
+  .icon{
+    padding: 10px;
+    width: 60px;
+  }
+  .videoramon{
+    width: 95%;
+    height: 90%;
+  }
+  .div-video{
+    height: 500px;
+  } 
+  .centerheadertext{
+    margin-left: auto;
+    margin-right: 0px;
+    width: 90%;
+  }
 
-.graph{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+  .titulo {
+    @include font-size(4rem);
+  }
+  .titulo {
+    font-size: calc(1.525rem + 3.3vw);
+  }
 
-.footer-title{
-  font-family: 'Sarala';
-  font-size: 40px;
+  @media (min-width: 1200px) {
+    .title {
+      font-size: 4rem;
+    }
+  }
+
+
+  .sub-title {
+    @include font-size(1rem);
+  }
+  .sub-title {
+    font-size: calc(0.38125rem + 0.825vw);
+  }
+
+  @media (min-width: 1200px) {
+    .title {
+      font-size: 4rem;
+    }
+  }
+
+  .graph{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .footer-title{
+    font-family: 'Sarala';
+    font-size: 40px;
     line-height: 65px;
     color: #252525;
     text-align: center;
-}
-.footer-text{
-  font-size: 25px;
+  }
+  .footer-text{
+    font-size: 25px;
     color: #252525;
     text-align: center;
-}
-.footer-textsm{
-  font-size: 20px;
-  font-weight: 700;
+  }
+  .footer-textsm{
+    font-size: 20px;
+    font-weight: 700;
     color: #252525;
     text-align: center;
-}
+  }
