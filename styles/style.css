@@ -69,7 +69,14 @@
     font-family: 'Sarala';
     text-align: justify;
     font-weight: 400;
-    font-size: 15;
+    font-size: 20;
+    color: #E6F2F8; 
+  }
+  li{
+    font-family: 'Sarala';
+    text-align: justify;
+    font-weight: 400;
+    font-size: 30;
     color: #E6F2F8; 
   }
 
@@ -96,6 +103,14 @@
     font-weight: 700;
     font-size: 30px;
     line-height: 65px;
+    color: #CFE6F0;
+  }
+  .sub-{
+    font-family: 'Sarala';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 50px;
     color: #CFE6F0;
   }
   .subc{
@@ -214,4 +229,10 @@
     font-weight: 700;
     color: #252525;
     text-align: center;
+  }
+  .prototipagem{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
   }
