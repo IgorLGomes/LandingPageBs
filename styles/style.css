@@ -22,7 +22,7 @@
     margin: 0;
   }
   body{
-    height: 3000px;
+    height: ;
     padding: 0;
     margin: 0;
     background-color: #252525;
@@ -236,3 +236,97 @@
     margin-right: auto;
     width: 80%;
   }
+
+
+
+
+
+
+
+
+
+  
+#noticias {
+  position: relative;
+  padding: 25px;
+}
+
+#noticiaBloco {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding-top: 50px;
+}
+
+#noticiaTexto {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  color: #E6F2F8;
+  
+  gap: 10px;
+}
+
+#noticiaTitulo a {
+  font-size: 40px;
+  font-weight:bold ;
+  text-align: center;
+  color: #C3E0EC;
+
+
+  text-decoration: none;
+}
+
+#noticiaTitulo a:hover {
+  color: #ffffff;
+}
+
+#postagemBloco {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#postagemTitulo {
+  font-size: 50px;
+  text-align: center;
+  color: #C3E0EC;
+  margin: 15px;
+  font-weight:bold ;
+  text-align: center;
+
+}
+
+#postagemContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #000000;
+  font-size: 25px;
+  padding: 20px;
+}
+
+#postagemContent img {
+  margin-bottom: 50px;
+  box-shadow: 10px 15px 15px black;
+  border-radius: 10px
+}
+
+#postagemWrapper{
+  background: linear-gradient(65.99deg, #23232F 11.05%, #52758E 88.83%);  padding: 100px;
+}
+#postagemBorda{
+  padding: 50px;
+}
+.sub-blog{
+  font-family: 'Sarala';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 65px;
+  color: #CFE6F0;
+}

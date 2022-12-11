@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<conteudo>
+    <postagem codigo="1">
+        <imagem fileName="img_c.png">brain.png</imagem>
+        <titulo>Ferramentas de UX/UI Design para Você Conhecer</titulo>
+        <corpo>Neste artigo, vamos listar algumas das ferramentas mais interessantes que existem até o momento. E não estamos falando apenas de softwares de prototipação. Algumas ferramentas são importantes também para ajudar na organização de um projeto e até mesmo nos testes com o usuário.
+        </corpo>
+        <corpo_2>
+            Figma
+        </corpo_2>
+        <corpo_3>
+            Figma é uma ferramenta Browser-based — com aplicativo para desktop — que permite que você crie protótipos, wireframes, design de interface e ícones vetorizados. Mas o grande diferencial do Figma é a sua capacidade de compartilhamento e trabalho real-time em equipe.
+        </corpo_3>
+        <corpo_4>
+            Adobe XD
+        </corpo_4>
+        <corpo_5>
+            O Adobe XD é uma ferramenta de UX/UI bem famosa e é bastante poderosa também.
+
+            Com ele você consegue desenvolver desde wireframes, layouts de tela, protótipos interativos e, até mesmo, interfaces de voz ou protótipos com controles de videogames. Nesse sentido, é uma ferramenta que te permite desenhar, usar e misturar elementos vetorizados.
+
+            Além disso, o Adobe XD possui integração com as demais ferramentas da Adobe. Dessa forma, é bastante simples integrar o Adobe XD com o Photoshop ou o Aftef Effects, por exemplo.
+        </corpo_5>
+        <corpo_6>
+            ProtoPie
+        </corpo_6>        
+        <corpo_7>
+            O ProtoPie é um dos softwares mais poderosos para de desenvolvimento de protótipos de alta fidelidade, com animações.
+
+            A interface do ProtoPie é bem limpa e simples, sendo fácil de ser utilizada inicialmente, mas não se engane pois o programa é complexo de se utilizar em seu “poder total”, por conta da quantidade de recursos que dispõe para prototipação.
+
+            Os protótipos gerados pelo ProtoPie tem fidelidade muita alta, chegando a se parecer com aplicativos finalizados e permitindo testes que incluem alta complexidade nos recursos a serem testados como a utilização da camera do celular, teclado, multi-touch, tilt, vibração, proximidade, som e outros recursos que a maioria dos softwares de prototipação não são capazes de oferecer.
+        </corpo_7>
+        <corpo_8>
+            Notion
+        </corpo_8>
+        <corpo_9>
+        Notion é um aplicativo de gerenciamento de tarefas e anotações.
+
+        Com ele, você consegue criar listas de To-Dos, organizar tarefas em tabelas, Kanban e organizar atividades em calendários.
+
+        Nesse sentido, o Notion é uma ótima ferramenta para organizar seus projetos e trabalhar em equipe. Além de ser uma ferramenta de organização, o Notion permite criar Wikis, que são como bibliotecas que podem contemplar políticas das empresas, objetivos dos projetos e outros documentos. Tudo isso para facilitar as tarefas do time e deixar todas as informações em um único lugar.
+        </corpo_9>
+        <corpo_10>
+        </corpo_10>
+        <imagem fileName="img_a.webp">tools.webp</imagem>
+    </postagem>
+
+    <postagem codigo="2">
+        <titulo>UX/UI Designer é uma das profissões mais procuradas e os dados comprovam</titulo>
+        <corpo>
+            1 - Uma das profissões mais requisitadas das próximas décadas
+        </corpo>
+        <corpo_2>
+            O LinkedIn, na recente pesquisa "What skills does the workforce value most?" lista as habilidades que estão em alta no mercado de trabalho. Entre elas, adivinha? O UX Design está no ranking, com a principal justificativa dos executivos entrevistados de que ele ajuda empresas na luta diária por visibilidade, presença online, de mercado e a alcançar a fidelização de seus clientes.        </corpo_2>
+        <corpo_3>
+            2 - Há muito potencial dentro de UX
+        </corpo_3>
+        <corpo_4>
+            Empresas, antenadas com as tendências de mercado e necessidades do mundo atual, têm investido cada vez mais no design centrado no usuário para criar produtos e serviços. Assim, muitas oportunidades estão disponíveis, muitas delas ainda sem gente capacitada para tal.
+
+            A demanda por esse tipo de profissional aumentou 69% de 2018 para 2019. E a tendência é de um boom ainda maior nas próximas três décadas, segundo estudo da NN/g.
+        </corpo_4>
+        <corpo_5>
+            3 - Paga excelentes salários
+        </corpo_5>
+        <corpo_6>
+            Sendo um UX Designer, você poderá fazer parte deste grupo de profissionais requisitados, com a opção de trabalhar em startups, agências e empresas, como freelancer ou por contrato fixo. O salário médio inicial para UX Designer júnior - sim, para o iniciante e sem muita experiência - é de R$ 4,149,00, segundo a consultoria Revelo.        </corpo_6>        
+        <corpo_7>
+            4 - Valor agregado ao conhecimento
+        </corpo_7>
+        <corpo_8>
+            Os bons salários e toda esta valorização são justificados por tudo o que ele pode agregar a uma empresa, como:
+
+            ➜ Melhora na experiência do usuário com a empresa e produto;
+
+            ➜ Eficiência na produção;
+
+            ➜ Aumento na lucratividade do negócio;
+
+            ➜ Melhora na imagem da empresa.
+        </corpo_8>
+        <corpo_9>
+        </corpo_9>
+        <corpo_10>
+        </corpo_10>
+        <imagem fileName="img_c.png">brain.png</imagem>
+    </postagem>
+    
+    <postagem codigo="3">
+        <titulo>Engenheiro e arquiteto de software: as profissões mais disputadas da tecnologia</titulo>
+        <corpo>
+            Construir e desenvolver novos programas é o desafio de milhares de empresas de tecnologia que buscam a inovação em um mercado cada vez mais competitivo.
+
+            Não à toa, os engenheiros e arquitetos de software estão entre as profissões mais disputadas atualmente. Afinal, esses especialistas em TI são capazes de tirar projetos e até startups do papel.
+
+        </corpo>
+        <corpo_2>    
+            Além do grande leque de oportunidades, as posições abertas para esses profissionais contam com planos de carreira estruturados e bons salários a partir de R$4.800,00, segundo o site Glassdoor.
+
+            Para ingressar nessas áreas, uma especialização da Pós PUCPR Digital pode ser o caminho. Conheça a diferença entre os cargos e veja qual mais tem a ver com você:
+        </corpo_2>
+        <corpo_3>
+            O que faz um engenheiro de software?
+        </corpo_3>
+        <corpo_4>
+            Na área da TI, o engenheiro de software é o profissional responsável por projetar, desenvolver e implementar a solução proposta junto aos demais programadores da equipe.
+
+            Focado no negócio, esse especialista também tem a função de gerenciar processos, garantindo qualidade e produtividade na execução das atividades pelo time.
+
+            
+        </corpo_4>
+        <corpo_5>
+             Além disso, o engenheiro é quem faz a ponte entre o líder e os programadores na execução de uma ação, oficializando a entrega. Geralmente, sua formação acadêmica engloba Engenharia da Computação, Ciências da Computação, ou uma pós na área.
+        </corpo_5>
+        <corpo_6>
+             E o que faz um arquiteto de software?           
+        </corpo_6>        
+        <corpo_7>
+             Dentro da área de tecnologia vamos ter também o arquiteto de software, o profissional responsável por colocar em prática o planejamento e as diretrizes desenhadas para o projeto.    
+        </corpo_7>
+        <corpo_8>
+            O arquiteto é quem aplica todas as decisões técnicas do projeto, resolvendo problemas e gerindo riscos durante o desenvolvimento, na busca de segurança e escalabilidade dos produtos.
+
+            Sua formação normalmente inclui uma graduação em Ciência da Computação, Sistema de Informação ou outras áreas relacionadas à tecnologia.
+        </corpo_8>
+        <corpo_9>
+            Qual é o perfil dos especialistas que trabalham com software?
+        </corpo_9>
+        <corpo_10>
+            Embora atuem em níveis diferentes dentro de um projeto, tanto um engenheiro como um arquiteto, tem perfis comportamentais semelhantes quando o assunto é tecnologia.
+
+            Com um perfil analítico, voltado para negociações e relacionamento com os colegas, o profissional da tecnologia deve ter: boa comunicação, resiliência, proatividade, senso crítico, criatividade e senso de liderança.
+        </corpo_10>
+        <imagem fileName="img_c.png">brain.png</imagem>
+    </postagem>
+</conteudo>
